@@ -1,0 +1,17 @@
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\bin\Debug\netstandard2.0\Pomodoro.deps.json
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\bin\Debug\netstandard2.0\Pomodoro.dll
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\bin\Debug\netstandard2.0\Pomodoro.pdb
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Pomodoro.csprojAssemblyReference.cache
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Pomodoro.AssemblyInfoInputs.cache
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Pomodoro.AssemblyInfo.cs
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Pomodoro.dll
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Pomodoro.pdb
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\RootPage.xaml.g.cs
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\RootPageDetail.xaml.g.cs
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\RootPageMaster.xaml.g.cs
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Views\ConfigurationPage.xaml.g.cs
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Views\PomodoroPage.xaml.g.cs
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\Views\HistoryPage.xaml.g.cs
+C:\Users\RubenEsparza\source\repos\Pomodoro\Pomodoro\Pomodoro\obj\Debug\netstandard2.0\XamlC.stamp
